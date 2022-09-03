@@ -1,17 +1,9 @@
-p {
-    margin-block-start: 0px;
-    margin-block-end: 0px;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-}
-
 .bg_img {
-    height: 1000px;
-    /* height: 100vh; */
+    height: 100vh;
     /* width: 100vw; */
     background-image: url(/challenges/images/bg.png);
-    color: white;
     background-size: cover;
+    /* background-repeat: no-repeat; */
 }
 
 img {
@@ -28,6 +20,7 @@ img {
 }
 
 .fox_desc {
+    color: white;
     width: 300px;
     margin: 0 auto;
     background-color: rgb(129, 68, 35);
