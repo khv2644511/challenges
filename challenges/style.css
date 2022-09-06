@@ -1,6 +1,6 @@
 .bg_img {
     height: 100vh;
-    background-image: url(/challenges/images/bg.png);
+    background-image: url(/images/bg.png);
     background-size: cover;
 }
 
